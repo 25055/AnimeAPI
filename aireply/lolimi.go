@@ -18,7 +18,7 @@ type LolimiAi struct {
 }
 
 const (
-	lolimiURL = "https://api.lolimi.cn"
+	lolimiURL = "http://botapi.xapoq.com"
 	// MomoURL api地址
 	MomoURL = lolimiURL + "/API/AI/mm.php?msg=%v"
 	// MomoBotName ...

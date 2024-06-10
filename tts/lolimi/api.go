@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	lolimiURL  = "https://api.lolimi.cn"
+	lolimiURL  = "http://botapi.xapoq.com"
 	genshinURL = lolimiURL + "/API/yyhc/y.php?msg=%v&speaker=%v"
 	jiaranURL  = lolimiURL + "/API/yyhc/jr.php?msg=%v"
 	tafeiURL   = lolimiURL + "/API/yyhc/taf.php?msg=%v"
